@@ -1,0 +1,4 @@
+name: ItemsAPI
+version: '${version}'
+main: net.zaskamlen.itemsapi.ItemsAPI
+api-version: '1.20'
