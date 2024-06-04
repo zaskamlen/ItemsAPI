@@ -105,11 +105,11 @@ public final class ItemsAPI extends JavaPlugin {
 
 ## Какие бывают ItemActionType
 
-`ATTACK`
+`ATTACK` При аттаке по существу
 
-`RIGHT_CLICK_ENTITY`
+`RIGHT_CLICK_ENTITY` При нажатии на существо
 
-`RIGHT_CLICK`
+`RIGHT_CLICK` При нажатии правой кнопки мыши
 
-`INVENTORY`
+`INVENTORY` При держании предмета в инвенторе
 
